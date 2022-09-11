@@ -65,14 +65,14 @@ EMC/EMI:
 
 
 English Books:
-<<Electromagnetic Compatibility Engineering>>  https://www.booktopia.com.au/electromagnetic-compatibility-engineering-henry-w-ott/book/9780470189306.html
-<<EMI Troubleshooting Cookbook for Product Designers>>  https://www.booktopia.com.au/emi-troubleshooting-cookbook-for-product-designers-patrick-g-andre/book/9781613530191.html
-<<The Art of Electronics>> https://www.booktopia.com.au/the-art-of-electronics-paul-horowitz/book/9780521809269.html
-<<Op Amps for Everyone>> https://www.booktopia.com.au/op-amps-for-everyone-carter/book/9780128116487.html
-<<Exploring Arduino: Tools and Techniques for Engineering Wizardry>>https://www.booktopia.com.au/exploring-arduino-jeremy-blum/book/9781119405375.html
-<<The Capacitor Handbook>> https://www.bookdepository.com/Capacitor-Handbook-Cletus-J-Kaiser/9780962852534
-<<The Inductor Handbook>> https://www.bookdepository.com/Inductor-Handbook-Cletus-J-Kaiser/9780962852541
-<<The Resistor Handbook>> https://www.bookdepository.com/Resistor-Handbook-Cletus-J-Kaiser/9780962852558
-<<The Diode Handbook>> https://www.bookdepository.com/Diode-Handbook-Cletus-J-Kaiser/9780962852565
-<<The Transistor Handbook>> https://www.bookdepository.com/Transistor-Handbook-Cletus-J-Kaiser/9780962852572
-<<Switching Power Supplies A - Z>> https://www.bookdepository.com/Switching-Power-Supplies-Z-Sanjaya-Maniktala/9780123865335
+<Electromagnetic Compatibility Engineering>  https://www.booktopia.com.au/electromagnetic-compatibility-engineering-henry-w-ott/book/9780470189306.html
+<EMI Troubleshooting Cookbook for Product Designers>  https://www.booktopia.com.au/emi-troubleshooting-cookbook-for-product-designers-patrick-g-andre/book/9781613530191.html
+<The Art of Electronics> https://www.booktopia.com.au/the-art-of-electronics-paul-horowitz/book/9780521809269.html
+<Op Amps for Everyone>> https://www.booktopia.com.au/op-amps-for-everyone-carter/book/9780128116487.html
+<Exploring Arduino: Tools and Techniques for Engineering Wizardry> https://www.booktopia.com.au/exploring-arduino-jeremy-blum/book/9781119405375.html
+<The Capacitor Handbook> https://www.bookdepository.com/Capacitor-Handbook-Cletus-J-Kaiser/9780962852534
+<The Inductor Handbook> https://www.bookdepository.com/Inductor-Handbook-Cletus-J-Kaiser/9780962852541
+<The Resistor Handbook> https://www.bookdepository.com/Resistor-Handbook-Cletus-J-Kaiser/9780962852558
+<The Diode Handbook> https://www.bookdepository.com/Diode-Handbook-Cletus-J-Kaiser/9780962852565
+<The Transistor Handbook> https://www.bookdepository.com/Transistor-Handbook-Cletus-J-Kaiser/9780962852572
+<Switching Power Supplies A - Z> https://www.bookdepository.com/Switching-Power-Supplies-Z-Sanjaya-Maniktala/9780123865335
